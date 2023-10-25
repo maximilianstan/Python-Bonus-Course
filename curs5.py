@@ -156,3 +156,4 @@ class Sub(ClasaDeBaza):
 
 s = Sub()
 s.f()
+
